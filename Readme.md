@@ -26,24 +26,24 @@ The dataset has a total of 506 samples with a size of 13, features are real posi
 
 <h2>Results</h2>
 
-	1 DecisionTreeRegressor + AdaBoostRegressor 	0.9058848482560361
-	2 GradientBoostingRegressor 					0.9004081518446372
-	3 DecisionTreeRegressor + BaggingRegressor 		0.8883071541276555
-	4 RandomForestRegressor 						0.8673260573834707
-	5 LinearRegression + PolynomialFeatures 		0.8594983915127037
-	6 cross validation + LinearRegression + shuffle 0.7827154987983166
-	7 TheilSenRegressor								0.7517901384800154
-	8 LinearRegression								0.7170072626212324
-	9 Ridge											0.7170055142174159
-	10 LassoLarsIC									0.7161240975333176
-	11 LassoLarsCV									0.7143072566943974
-	12 BayesianRidge								0.6860957384645389
-	13 KNeighborsRegressor 							0.6563295078414701
-	14 LassoCV 										0.6431280600783202
-	15 LassoLars 									0.6262661585576621
-	16 ElasticNet									0.6204130713553642
-	17 ElasticNetCV									0.6011581191235758
-	18 Lasso 										0.5233967232760778
+	1 DecisionTreeRegressor + AdaBoostRegressor	0.9058848482560361
+	2 GradientBoostingRegressor	0.9004081518446372
+	3 DecisionTreeRegressor + BaggingRegressor	0.8883071541276555
+	4 RandomForestRegressor	0.8673260573834707
+	5 LinearRegression + PolynomialFeatures	0.8594983915127037
+	6 cross validation + LinearRegression + shuffle	0.7827154987983166
+	7 TheilSenRegressor	0.7517901384800154
+	8 LinearRegression	0.7170072626212324
+	9 Ridge 	0.7170055142174159
+	10 LassoLarsIC	0.7161240975333176
+	11 LassoLarsCV	0.7143072566943974
+	12 BayesianRidge	0.6860957384645389
+	13 KNeighborsRegressor	0.6563295078414701
+	14 LassoCV 	0.6431280600783202
+	15 LassoLars 	0.6262661585576621
+	16 ElasticNet 	0.6204130713553642
+	17 ElasticNetCV 0.6011581191235758
+	18 Lasso 	0.5233967232760778
 
 <h2>Requirements</h2>
 Python 2.7 and up
